@@ -2,11 +2,6 @@ package Vistas;
 
 import java.awt.EventQueue;
 import java.awt.Toolkit;
-import org.apache.log4j.BasicConfigurator;
-import org.apache.log4j.Logger;
-
-import org.apache.log4j.PropertyConfigurator;
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
